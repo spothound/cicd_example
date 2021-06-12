@@ -1,6 +1,6 @@
 # devoPS
 
-![Diagram](https://github.com/spothound/cicd_example/blob/main/diagram.png?raw=true)
+![Diagram](https://github.com/spothound/cicd_example/blob/main/sequence_diagram.png?raw=true)
 
 CICD Pipeline to deploy a simple web application and an asynchronous MQ service on AWS.
 
