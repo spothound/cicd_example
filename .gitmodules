@@ -1,0 +1,3 @@
+[submodule "ec2-terraform"]
+	path = ec2-terraform
+	url = git@github.com:spothound/ec2-terraform.git
