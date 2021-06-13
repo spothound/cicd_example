@@ -1,3 +1,9 @@
 [submodule "ec2-terraform"]
 	path = ec2-terraform
 	url = git@github.com:spothound/ec2-terraform.git
+[submodule "simple_web"]
+	path = simple_web
+	url = git@github.com:spothound/simple_web.git
+[submodule "simple_mq"]
+	path = simple_mq
+	url = git@github.com:spothound/simple_mq.git
